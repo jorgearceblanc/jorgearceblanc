@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @jorgearceblanc
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<div align="justify">
+  
+### Hi i'm Jorge 👋🏼 
+🌱 I’m currently learning Data Analytics ⚙
 
-<!---
-jorgearceblanc/jorgearceblanc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## You can find me 🌎
+<p align="left">
+<a href="https://www.linkedin.com/in/jorgearcee/" target="blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo" /></a>
+</p>
