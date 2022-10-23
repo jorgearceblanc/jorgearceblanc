@@ -22,12 +22,12 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jorgearceblanc&show_icons=true&locale=en&layout=compact&theme=aura" alt="jorgearceblanc" /></p>
 
-
-## Commit Snake 🐍
-![Snake animation](https://raw.githubusercontent.com/fernandobandeira/fernandobandeira/output/github-snake-dark.svg)
-
 ## Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jorgearceblanc&show_icons=true&theme=aura)
 </p>
+
+## Commit Snake 🐍
+![Snake animation](https://raw.githubusercontent.com/fernandobandeira/fernandobandeira/output/github-snake-dark.svg)
+
 </div>
