@@ -20,7 +20,7 @@
 
 ## Skills
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaquin-labrador&show_icons=true&locale=en&layout=compact&theme=aura" alt="joaquin-labrador" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jorgearceblanc&show_icons=true&locale=en&layout=compact&theme=aura" alt="jorgearceblanc" /></p>
 
 
 ## Commit Snake 🐍
