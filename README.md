@@ -1,7 +1,7 @@
 <div align="justify">
   
 ### Hi i'm Jorge 👋🏼 
-🌱 I’m currently learning Data Analytics ⚙
+🌱 I’m currently studying a Data Analytics Master at EDEM ⚙
 
 ## You can find me 🌎
 <p align="left">
