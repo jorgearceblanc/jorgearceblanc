@@ -28,6 +28,6 @@
 </p>
 
 ## Commit Snake 🐍
-![Snake animation](https://raw.githubusercontent.com/jorgearceblanc/output/github-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/fernandobandeira/fernandobandeira/output/github-snake-dark.svg)
 
 </div>
